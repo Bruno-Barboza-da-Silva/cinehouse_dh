@@ -1,0 +1,34 @@
+[
+    {
+        "codigo": 1,
+        "titulo": "filme 1",
+        "duracao": 1.5,
+        "atores": ["ator 1", "ator 2"],
+        "anoDelancamento": 2022,
+        "emCartaz": true
+    },
+    {
+        "codigo": 2,
+        "titulo": "filme 2",
+        "duracao": 1.6,
+        "atores": ["ator 3", "ator 4"],
+        "anoDelancamento": 2021,
+        "emCartaz": true
+    },
+    {
+        "codigo": 3,
+        "titulo": "filme 3",
+        "duracao": 1.7,
+        "atores": ["ator 5", "ator 6"],
+        "anoDelancamento": 2020,
+        "emCartaz": false
+    },
+    {
+        "codigo": 4,
+        "titulo": "filme 4",
+        "duracao": 2,
+        "atores": ["ator 7", "ator 8", "ator 9"],
+        "anoDelancamento": 2019,
+        "emCartaz": false
+    }
+]
